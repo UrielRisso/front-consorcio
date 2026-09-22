@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  /* Nombres semánticos individuales */
+  --color-primary: #4B1111;
+  --color-primary-hover: #1F0202;
+
+  /* Escala personalizada completa */
+  --color-brand-100: #994747;
+  --color-brand-500: #722B2B;
+  --color-brand-900: #351111;
+}
